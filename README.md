@@ -28,3 +28,10 @@ Image Search는 Unsplah API를 활용하여 이미지를 검색할 수 있는 �
 >이미지의 정보를 확인 후 다운로드 버튼을 눌러 고화질로 사진을 다운 받습니다
 
 <img src="https://user-images.githubusercontent.com/96972549/160272823-e0083e66-dcf5-495e-8e00-a916cf957640.gif">
+
+### 주요코드
+>이미지 검색 단어 통해 api에서 관련 사진을 찾음
+<img src="https://user-images.githubusercontent.com/96972549/163722164-5d9d729a-2cc9-4c2f-aed3-757c716ce74e.png">
+
+>이미지 정보 출력
+<img src="https://user-images.githubusercontent.com/96972549/163722195-f3d962c5-d694-455e-92f3-40f2fc77fb66.png">
